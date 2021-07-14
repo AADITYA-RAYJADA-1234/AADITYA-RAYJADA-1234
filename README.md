@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @AADITYA-RAYJADA-1234
-- 👀 I’m interested in do Coding, learn English and making crafts ...
-- 🌱 I’m currently learning Class8  ...
-- 💞️ I’m looking to collaborate on github ...
+- 👋 Hi, My name is Aaditya Rayjada.
+-  i'm from Gujarat,India
+-  My hobbies are playing,studying and singing
+- 👀 I’m interested in Coding Engli and English  ...
+- 🌱 I’m currently learning Class 8  ...
+- I am a younger coder in medium level. In whitehat jr.
+- If you want to learn coding. so contact me on aadityarayjada@gmail.com (for 7 - 10 years students)
+- for book your coding class - fiil this form ---- https://forms.gle/zw9rW21tetxSoh6D9
+- we will contact you after fill form
 - 📫 How to reach me ... my email-address - aadityarayjada@yahoo.com / aadityarayjada@gmail.com 
 
 <!---
